@@ -21,6 +21,13 @@
 <!-- - 🌱 Currently, I am focusing on building a scalable and automated social media sharable image generator using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**. -->
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/songala/) | [Email](mailto:akhileshwar.songala@gmail.com)
 
+## From Blueprints to Bits.
+
+With the precision of a mechanical engineer, I design robust, scalable, and elegant software. My world shifted from stress analysis on steel beams to load balancing on servers, but the core principle remains the same: **building resilient solutions to complex problems.**
+
+I don't just write code; I engineer digital systems.
+
+
 <!--
 ## 📂 Projects 📂
 
