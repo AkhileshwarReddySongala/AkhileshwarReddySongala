@@ -1,6 +1,6 @@
 
 # Akhileshwar Reddy Songala
-### AI Systems Architect | Mechanical Engineer by Training
+### AI Systems Engineer | Mechanical Engineer by Training
 
 ---
 
